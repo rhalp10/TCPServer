@@ -7,7 +7,7 @@ package TCPServer;
 
 /**
  *
- * @author Philip
+ * @author rhalp10
  */
 import java.io.*;
 import java.net.*;
